@@ -1,1 +1,2 @@
-return("eljCTpVMQKqCGYnTJrMEFFmDCCyXQh")
+local Key = "eljCTpVMQKqCGYnTJrMEFFmDCCyXQh"
+return(Key)
